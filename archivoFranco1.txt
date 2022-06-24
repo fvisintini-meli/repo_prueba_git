@@ -1,3 +1,7 @@
 Actualizo el archivo
 
+<<<<<<< HEAD
 Cambio de franco sobre el mismo archivo
+=======
+Cambios en arhivo - Seba
+>>>>>>> 7bc3e6f3aca764d7b490804ed07d49a499e535b5
